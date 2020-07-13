@@ -1,0 +1,9 @@
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\John Chin\Desktop\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.pdb

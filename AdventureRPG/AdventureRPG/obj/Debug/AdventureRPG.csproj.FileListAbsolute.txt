@@ -1,0 +1,13 @@
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\bin\Debug\AdventureRPG.exe.config
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\bin\Debug\AdventureRPG.exe
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\bin\Debug\AdventureRPG.pdb
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\bin\Debug\Engine.dll
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\bin\Debug\Engine.pdb
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.csprojAssemblyReference.cache
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.Properties.Resources.resources
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.csproj.GenerateResource.cache
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.csproj.CoreCompileInputs.cache
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.csproj.CopyComplete
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.exe
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.pdb
+C:\Users\John Chin\Desktop\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.AdventureRPG.resources
