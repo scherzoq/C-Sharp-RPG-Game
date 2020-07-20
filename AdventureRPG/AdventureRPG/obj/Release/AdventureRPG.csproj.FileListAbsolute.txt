@@ -1,0 +1,13 @@
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Release\AdventureRPG.exe.config
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Release\AdventureRPG.exe
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Release\AdventureRPG.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Release\Engine.dll
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Release\Engine.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.csprojAssemblyReference.cache
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.AdventureRPG.resources
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.Properties.Resources.resources
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.csproj.GenerateResource.cache
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.csproj.CoreCompileInputs.cache
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.csproj.CopyComplete
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.exe
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Release\AdventureRPG.pdb

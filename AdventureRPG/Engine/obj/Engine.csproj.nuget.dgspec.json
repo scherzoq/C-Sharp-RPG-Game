@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John Chin\\Desktop\\AdventureRPG\\Engine\\Engine.csproj": {}
+    "C:\\Users\\John Chin\\OneDrive\\Desktop\\C-Sharp-RPG-Game\\AdventureRPG\\Engine\\Engine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John Chin\\Desktop\\AdventureRPG\\Engine\\Engine.csproj": {
+    "C:\\Users\\John Chin\\OneDrive\\Desktop\\C-Sharp-RPG-Game\\AdventureRPG\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John Chin\\Desktop\\AdventureRPG\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\John Chin\\OneDrive\\Desktop\\C-Sharp-RPG-Game\\AdventureRPG\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\John Chin\\Desktop\\AdventureRPG\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\John Chin\\OneDrive\\Desktop\\C-Sharp-RPG-Game\\AdventureRPG\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\John Chin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John Chin\\Desktop\\AdventureRPG\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\John Chin\\OneDrive\\Desktop\\C-Sharp-RPG-Game\\AdventureRPG\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John Chin\\AppData\\Roaming\\NuGet\\NuGet.Config",
