@@ -286,6 +286,7 @@ namespace AdventureRPG
             this.Controls.Add(this.label1);
             this.Name = "AdventureRPG";
             this.Text = "My Game";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.AdventureRPG_FormClosing);
             this.Load += new System.EventHandler(this.AdventureRPG_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvInventory)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).EndInit();
@@ -296,7 +297,7 @@ namespace AdventureRPG
 
         private void AdventureRPG_Load(object sender, EventArgs e)
         {
-            return;
+
         }
 
         #endregion
