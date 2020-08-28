@@ -51,6 +51,7 @@ namespace AdventureRPG
             this.rtbMessages = new System.Windows.Forms.RichTextBox();
             this.dgvInventory = new System.Windows.Forms.DataGridView();
             this.dgvQuests = new System.Windows.Forms.DataGridView();
+            this.btnTrade = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvInventory)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).BeginInit();
             this.SuspendLayout();
@@ -257,6 +258,16 @@ namespace AdventureRPG
             this.dgvQuests.RowHeadersVisible = false;
             this.dgvQuests.Size = new System.Drawing.Size(312, 189);
             this.dgvQuests.TabIndex = 20;
+            //
+            // btnTrade
+            //
+            this.btnTrade.Location = new System.Drawing.Point(493, 620);
+            this.btnTrade.Name = "btnTrade";
+            this.btnTrade.Size = new System.Drawing.Size(75, 23);
+            this.btnTrade.TabIndex = 21;
+            this.btnTrade.Text = "Trade";
+            this.btnTrade.UseVisualStyleBackColor = true;
+            this.btnTrade.Click += new System.EventHandler(this.btnTrade_Click);
             // 
             // AdventureRPG
             // 
@@ -280,6 +291,7 @@ namespace AdventureRPG
             this.Controls.Add(this.lblExperience);
             this.Controls.Add(this.lblGold);
             this.Controls.Add(this.lblHitPoints);
+            this.Controls.Add(this.btnTrade);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -323,6 +335,7 @@ namespace AdventureRPG
         private System.Windows.Forms.RichTextBox rtbMessages;
         private System.Windows.Forms.DataGridView dgvInventory;
         private System.Windows.Forms.DataGridView dgvQuests;
+        private System.Windows.Forms.Button btnTrade;
     }
 }
 

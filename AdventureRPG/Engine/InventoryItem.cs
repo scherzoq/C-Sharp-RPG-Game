@@ -50,5 +50,15 @@ namespace Engine
                 return Quantity > 1 ? Details.NamePlural : Details.Name;
             }
         }
+
+        public int ItemID
+        {
+            get { return Details.ID; }
+        }
+
+        public int Price
+        {
+            get { return Details.Price; }
+        }
     }
 }
