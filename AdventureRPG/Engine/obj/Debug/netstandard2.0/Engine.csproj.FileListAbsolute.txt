@@ -13,6 +13,6 @@ C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\bin\Deb
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
-C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.dll
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache

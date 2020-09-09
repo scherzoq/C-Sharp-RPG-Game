@@ -25,3 +25,5 @@ C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\o
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.exe
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.pdb
 C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\obj\Debug\AdventureRPG.TradingScreen.resources
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Debug\System.Data.SqlClient.dll
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPG\bin\Debug\System.Data.SqlClient.xml
