@@ -1,0 +1,12 @@
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\AdventureRPGConsole.exe.config
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\AdventureRPGConsole.exe
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\AdventureRPGConsole.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\Engine.dll
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\Engine.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\obj\Debug\AdventureRPGConsole.csprojAssemblyReference.cache
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\obj\Debug\AdventureRPGConsole.csproj.CoreCompileInputs.cache
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\obj\Debug\AdventureRPGConsole.csproj.CopyComplete
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\obj\Debug\AdventureRPGConsole.exe
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\obj\Debug\AdventureRPGConsole.pdb
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\System.Data.SqlClient.dll
+C:\Users\John Chin\OneDrive\Desktop\C-Sharp-RPG-Game\AdventureRPG\AdventureRPGConsole\bin\Debug\System.Data.SqlClient.xml
